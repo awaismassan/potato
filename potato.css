@@ -1,0 +1,19 @@
+h1 {
+  background-color: gray;
+  color: orange;
+  text-align: center;
+}
+
+p {
+  border: 2px solid gray;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+h1,
+.img {
+  margin: 10px;
+  border-radius: 5px;
+  overflow: hidden;
+}
